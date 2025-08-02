@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KafkaEventHandler": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

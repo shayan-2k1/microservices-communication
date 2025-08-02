@@ -1,0 +1,9 @@
+USE PRODUCT_DB
+UPDATE Product
+SET StockQuantity=100,
+	HasOrders=0;
+
+USE ORDER_DB
+TRUNCATE TABLE [Order];
+
+DBCC CHECKIDENT('Order');
