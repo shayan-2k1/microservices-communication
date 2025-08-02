@@ -1,4 +1,4 @@
-<div align="justify-left">
+<div align="justify">
 
 This microservice project is designed as a comprehensive exploration of modern interservice communication technologies, with a focus on practical implementation and architectural comparison. The primary objective is to evaluate and demonstrate how different messaging and communication protocols—<strong>RabbitMQ</strong>, <strong>Apache Kafka</strong>, and <strong>gRPC</strong>—can be integrated within a distributed system to enable efficient, scalable, and reliable service-to-service interactions.
 
